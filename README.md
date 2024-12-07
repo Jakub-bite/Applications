@@ -1,2 +1,2 @@
 # Applications
-My GUI applications.
+I will upload my GUI applications to this repositorie. 💾
