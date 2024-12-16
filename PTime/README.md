@@ -1,2 +1,2 @@
 # PTime
-PTime is silple pomodoro timer.
+PTime is simple pomodoro timer.
